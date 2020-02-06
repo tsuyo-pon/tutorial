@@ -11,5 +11,5 @@ auther: tsuyo-pon
 # Contents
 []({{{)
 - 機械学習
-    - VBGMM
+    - [VBGMM](vbgmm)
 [](}}})
