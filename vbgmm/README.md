@@ -69,7 +69,6 @@ tsuyo-pon/tutorial/vbgmm_tutorial
 |--requirements.txt
 |--script
 |  |--sample.py
-|  |--vbgmm_sit.py
 ```
 
 [](}}})
