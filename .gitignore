@@ -1,0 +1,5 @@
+# jupyter notebook の 途中セーブみたいなのを保存している.ipynb_checkpointsはいらない
+.ipynb_checkpoints
+
+# Finderの状態を保存する.DS_Storeはいらない．
+.DS_Store
