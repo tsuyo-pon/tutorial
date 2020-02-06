@@ -12,4 +12,6 @@ auther: tsuyo-pon
 []({{{)
 - 機械学習
     - [VBGMM](vbgmm)
+- 音響解析
+    - [SSP](ssp)
 [](}}})
