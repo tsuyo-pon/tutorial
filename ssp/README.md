@@ -1,4 +1,4 @@
-Last Change: 2020/02/06 17:15:33.
+Last Change: 2020/02/07 13:10:44.
 
 auther: tsuyo-pon
 # What is this?
@@ -9,9 +9,6 @@ auther: tsuyo-pon
 
 OSはMac OSを前提としています．
 
-以下のサイトを参考に作成しました．
-- https://github.com/kikuchiken-waseda/SSP/tree/master/source/basic
-- https://github.com/kikuchiken-waseda/SSP/tree/master/source/gleaning
 [](}}})
 
 # Version
